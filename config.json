@@ -1,0 +1,16 @@
+{
+	"params":
+	{
+		"local_server":"True",
+		"local_uri":"mysql://root:@localhost/crop",
+		"prod_uri":"mysql://root:@localhost/stock",
+		"fb_url":"https://facebook.com/stock",
+		"tw_url":"https://twitter.com/stock",
+		"git_url":"https://github.com/stock",
+		"blog_name":"stock",
+		"login_image":"login.jpeg",
+		"gmail_user":"tusharipatil9610@gmail.com",
+		"gmail_password":"Tushari@12345"
+
+	}
+} 
